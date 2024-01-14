@@ -4,19 +4,6 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.material-icons {
-    background-color: #474747;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    cursor: pointer;
-}
-
-.material-icons:hover {
-    background-color: white;
-    color: black;
-}
 
 .menu {
     display: flex;
